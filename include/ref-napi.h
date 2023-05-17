@@ -6,7 +6,7 @@
 #endif
 #include "napi.h"
 
-// The definitions in this file are intended to be used by node-ffi-napi.
+// The definitions in this file are intended to be used by ffi-napi.
 
 namespace RefNapi {
 

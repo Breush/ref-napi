@@ -1,5 +1,5 @@
 {
-  "name": "@lwahonen/ref-napi",
+  "name": "@Breush/ref-napi",
   "description": "Turn Buffer instances into \"pointers\", with \"v8::ArrayBuffer::GetBackingStore\" patch",
   "engines": {
     "node": ">= 12.22.12"
@@ -26,7 +26,7 @@
   "author": "Anna Henningsen <anna@addaleax.net>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/node-ffi-napi/ref-napi.git"
+    "url": "git://github.com/Breush/ref-napi.git"
   },
   "main": "./lib/ref.js",
   "scripts": {
