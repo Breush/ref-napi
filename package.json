@@ -21,7 +21,7 @@
     "64",
     "napi"
   ],
-  "version": "4.0.8",
+  "version": "4.0.9",
   "license": "MIT",
   "author": "Anna Henningsen <anna@addaleax.net>",
   "repository": {
@@ -30,7 +30,7 @@
   },
   "main": "./lib/ref.js",
   "scripts": {
-    "install": "node-gyp-build", 
+    "install": "node-gyp-build",
     "prebuild": "prebuildify --napi --tag-armv"
   },
   "dependencies": {
